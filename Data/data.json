@@ -1,0 +1,3413 @@
+{
+    "wtstatus": {
+        "success": true,
+        "status": ""
+    },
+    "count": 567,
+    "limit": null,
+    "offset": null,
+    "data": [
+        {
+            "alliance_name": "4EU+",
+            "country": "Czechia",
+            "university_name": "Charles University",
+            "link": "https:\/\/4euplus.eu\/"
+        },
+        {
+            "alliance_name": "4EU+",
+            "country": "Germany",
+            "university_name": "Heidelberg University",
+            "link": "https:\/\/4euplus.eu\/"
+        },
+        {
+            "alliance_name": "4EU+",
+            "country": "France",
+            "university_name": "Sorbonne University",
+            "link": "https:\/\/4euplus.eu\/"
+        },
+        {
+            "alliance_name": "4EU+",
+            "country": "Denmark",
+            "university_name": "University of Copenhagen",
+            "link": "https:\/\/4euplus.eu\/"
+        },
+        {
+            "alliance_name": "4EU+",
+            "country": "Italy",
+            "university_name": "University of Milan",
+            "link": "https:\/\/4euplus.eu\/"
+        },
+        {
+            "alliance_name": "4EU+",
+            "country": "Poland",
+            "university_name": "University of Warsaw",
+            "link": "https:\/\/4euplus.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Spain",
+            "university_name": "University of Granada",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Austria",
+            "university_name": "University of Graz",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Germany",
+            "university_name": "Leipzig University",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "France",
+            "university_name": "University of Lyon 1",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Portugal",
+            "university_name": "University of Minho",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Italy",
+            "university_name": "University of Padua",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Lithuania",
+            "university_name": "Vilnius University",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Poland",
+            "university_name": "University of Wroc\u0142aw",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Arqus",
+            "country": "Ireland",
+            "university_name": "Maynooth University",
+            "link": "https:\/\/arqus-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Iceland",
+            "university_name": "University of Iceland",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Netherlands (the)",
+            "university_name": "Vrije Universiteit Amsterdam",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Germany",
+            "university_name": "University of Duisburg Essen",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Italy",
+            "university_name": "University of Naples Federico II",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Spain",
+            "university_name": "Universitat Rovira i Virgili",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Austria",
+            "university_name": "University of Innsbruck",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Czechia",
+            "university_name": "Palack\u00fd University Olomouc",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "Denmark",
+            "university_name": "Copenhagen Business School",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "Aurora",
+            "country": "France",
+            "university_name": "Universit\u00e9 Paris-Est Cr\u00e9teil",
+            "link": "https:\/\/aurora-universities.eu\/"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Finland",
+            "university_name": "Abo Akademi",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Hungary",
+            "university_name": "Eotvos Lorand University",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Germany",
+            "university_name": "Hochschule Ruhr West",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Germany",
+            "university_name": "Julius-Maximilians-University Wurzburg",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Ireland",
+            "university_name": "Trinity College Dublin",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Spain",
+            "university_name": "University of Barcelona",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "France",
+            "university_name": "University of Montpellier",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "CHARM-EU",
+            "country": "Netherlands (the)",
+            "university_name": "Utrecht University",
+            "link": "https:\/\/www.charm-eu.eu\/node\/1"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Norway",
+            "university_name": "University of Oslo",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Denmark",
+            "university_name": "Aarhus University",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Germany",
+            "university_name": "Humboldt-Universit\u00e4t zu Berlin",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "France",
+            "university_name": "Universit\u00e9 Paris Cit\u00e9",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Serbia",
+            "university_name": "University of Belgrade",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Belgium",
+            "university_name": "University of Louvain",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Italy",
+            "university_name": "University of Pisa",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "Circle U.",
+            "country": "Austria",
+            "university_name": "University of Vienna",
+            "link": "https:\/\/www.circle-u.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Austria",
+            "university_name": "Central European University",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Italy",
+            "university_name": "European University Institute",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Sweden",
+            "university_name": "Stockholm School of Economics",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Germany",
+            "university_name": "Hertie School",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Spain",
+            "university_name": "IE University",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "France",
+            "university_name": "Sciences Po",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Romania",
+            "university_name": "National University of Political Studies and Public Administration",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Poland",
+            "university_name": "SGH Warsaw School of Economics",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVICA",
+            "country": "Italy",
+            "university_name": "Bocconi University",
+            "link": "https:\/\/www.civica.eu\/"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Germany",
+            "university_name": "Eberhard Karl University of T\u00fcbingen",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Greece",
+            "university_name": "National & Kapodistrian University of Athens",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Austria",
+            "university_name": "Paris-Lodron University of Salzburg",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Sweden",
+            "university_name": "Stockholm University",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Spain",
+            "university_name": "Autonomous University of Madrid",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Italy",
+            "university_name": "Sapienza University of Rome",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Romania",
+            "university_name": "University of Bucharest",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "France",
+            "university_name": "Aix-Marseille University",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "CIVIS",
+            "country": "Belgium",
+            "university_name": "Universit\u00e9 libre de Bruxelles",
+            "link": "https:\/\/civis.eu\/en"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Germany",
+            "university_name": "Paderborn University",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Italy",
+            "university_name": "University of Ferrara",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Sweden",
+            "university_name": "Kristianstad University",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Croatia",
+            "university_name": "Josip Juraj Strossmayer University of Osijek",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Poland",
+            "university_name": "Jan Dlugosz University in Czestochowa",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Spain",
+            "university_name": "University of Castilla-La Mancha",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "France",
+            "university_name": "Le Mans University",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Republic of North Macedonia",
+            "university_name": "University St Kliment Ohridski Bitola",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "COLOURS",
+            "country": "Latvia",
+            "university_name": "Ventspils University of Applied Sciences",
+            "link": "https:\/\/www.uni-paderborn.de\/en\/university\/international-relations\/colours-alliance"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Austria",
+            "university_name": "St. P\u00f6lten University Of Applied Sciences",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Germany",
+            "university_name": "Fulda University of Applied Sciences",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Portugal",
+            "university_name": "Polytechnic Institute of Set\u00fabal",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Finland",
+            "university_name": "Jamk University of Applied Sciences",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Netherlands (the)",
+            "university_name": "Saxion University of Applied Sciences",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Belgium",
+            "university_name": "UC Leuven-Limburg University of Applied Sciences",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Romania",
+            "university_name": "Politehnica University Timi\u0219oara",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "E3UDRES2",
+            "country": "Latvia",
+            "university_name": "Vidzeme University of Applied Sciences",
+            "link": "https:\/\/eudres.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "France",
+            "university_name": "University of Poitiers",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Portugal",
+            "university_name": "University of Coimbra",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Romania",
+            "university_name": "Alexandru Ioan Cuza University of Iasi",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Germany",
+            "university_name": "Friedrich Schiller University Jena",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Austria",
+            "university_name": "Johannes Kepler University Linz",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Italy",
+            "university_name": "University of Pavia",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Spain",
+            "university_name": "University of Salamanca",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "EC2U",
+            "country": "Finland",
+            "university_name": "University of Turku",
+            "link": "https:\/\/ec2u.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Ireland",
+            "university_name": "Dublin City University",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "France",
+            "university_name": "INSA Toulouse",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Lithuania",
+            "university_name": "Kaunas University of Technology",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Sweden",
+            "university_name": "Link\u00f6ping University",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Poland",
+            "university_name": "\u0141\u00f3d\u017a University of Technology",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Finland",
+            "university_name": "Tampere University",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Germany",
+            "university_name": "Hamburg University of Technology",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Spain",
+            "university_name": "Autonomous University of Barcelona",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Portugal",
+            "university_name": "University of Aveiro",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Italy",
+            "university_name": "University of Trento",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Netherlands (the)",
+            "university_name": "University of Twente",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "ECIU University",
+            "country": "Norway",
+            "university_name": "University of Stavanger",
+            "link": "https:\/\/www.eciu.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "Germany",
+            "university_name": "University of Potsdam",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "Hungary",
+            "university_name": "University of P\u00e9cs",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "France",
+            "university_name": "University of Rennes",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "France",
+            "university_name": "University of Paris Nanterre",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "Italy",
+            "university_name": "University of Cagliari",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "Czechia",
+            "university_name": "Masaryk University",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "Norway",
+            "university_name": "University of South Eastern Norway",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EDUC",
+            "country": "Spain",
+            "university_name": "Jaume I University",
+            "link": "https:\/\/educalliance.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Spain",
+            "university_name": "Polytechnic University of Madrid",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Hungary",
+            "university_name": "Budapest University of Technology and Economics",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "France",
+            "university_name": "Ecole Nationale des Ponts et Chausses ParisTech",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Germany",
+            "university_name": "Friedrich-Alexander University of Erlangen-N\u00fcrnberg",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Turkey",
+            "university_name": "Istanbul Technical University",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Italy",
+            "university_name": "Scuola Normale Superiore",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Italy",
+            "university_name": "Sant'Anna School of Advanced Studies",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "Romania",
+            "university_name": "University Politehnica of Bucharest",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "EELISA",
+            "country": "France",
+            "university_name": "Paris Sciences & Lettres University",
+            "link": "https:\/\/eelisa.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Germany",
+            "university_name": "University of Mannheim",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Finland",
+            "university_name": "Hanken School of Economics",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Italy",
+            "university_name": "Luiss University",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Norway",
+            "university_name": "NHH Norwegian School of Economics",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Netherlands (the)",
+            "university_name": "Tilburg University",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Bulgaria",
+            "university_name": "University of National and World Economy",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Spain",
+            "university_name": "Ramon Llull University",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "France",
+            "university_name": "Toulouse Capitole University",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENGAGE.EU",
+            "country": "Austria",
+            "university_name": "Vienna University of Economics and Business",
+            "link": "https:\/\/www.engageuniversity.eu\/"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Germany",
+            "university_name": "Technische Universit\u00e4t Berlin",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Sweden",
+            "university_name": "Chalmers University of Technology",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Norway",
+            "university_name": "Norwegian University of Science and Technology",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Poland",
+            "university_name": "Gdansk University of Technology",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Italy",
+            "university_name": "Politecnico di Milano",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Poland",
+            "university_name": "Warsaw University of Technology",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Germany",
+            "university_name": "RWTH Aachen University",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Netherlands (the)",
+            "university_name": "Delft University of Technology",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENHANCE",
+            "country": "Spain",
+            "university_name": "Universitat Politecnica de Valencia",
+            "link": "https:\/\/www.enhanceuniversity.eu"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Belgium",
+            "university_name": "Ghent University",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Slovakia",
+            "university_name": "Comenius University Bratislava",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "France",
+            "university_name": "University of Bordeaux",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Ireland",
+            "university_name": "University of Galway",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Germany",
+            "university_name": "The University of G\u00f6ttingen",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Netherlands (the)",
+            "university_name": "University of Groningen",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Spain",
+            "university_name": "University of the Basque Country",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Estonia",
+            "university_name": "University of Tartu",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "ENLIGHT",
+            "country": "Sweden",
+            "university_name": "Uppsala University",
+            "link": "https:\/\/enlight-eu.org\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Germany",
+            "university_name": "University of Freiburg",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Greece",
+            "university_name": "Aristotle University of Thessaloniki",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Germany",
+            "university_name": "Karlsruhe Institute of Technology",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Denmark",
+            "university_name": "University of Southern Denmark",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Austria",
+            "university_name": "University of Natural Resources and Life Sciences",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "France",
+            "university_name": "Universit\u00e9 de Haute-Alsace",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "France",
+            "university_name": "University of Strasbourg",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Netherlands (the)",
+            "university_name": "University of Amsterdam",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "EPICUR",
+            "country": "Poland",
+            "university_name": "Adam Mickiewicz University, Pozna\u0144",
+            "link": "https:\/\/epicur.edu.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "France",
+            "university_name": "Paris 8 University Vincennes - Saint-Denis",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Greece",
+            "university_name": "University of the Aegean",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Bulgaria",
+            "university_name": "New Bulgarian University",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Poland",
+            "university_name": "SWPS University",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Spain",
+            "university_name": "University of Las Palmas de Gran Canaria",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Italy",
+            "university_name": "University of Macerata",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Germany",
+            "university_name": "Europa Universit\u00e4t Viadrina Frankfurt",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "ERUA",
+            "country": "Lithuania",
+            "university_name": "Mykolas Romeris University",
+            "link": "https:\/\/erua-eui.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Sweden",
+            "university_name": "University of G\u00e4vle",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Ireland",
+            "university_name": "Atlantic Technological University",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Germany",
+            "university_name": "Otto von Guericke University Magdeburg",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Spain",
+            "university_name": "University of Extremadura",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Portugal",
+            "university_name": "University of \u00c9vora",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Italy",
+            "university_name": "University of Parma",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Romania",
+            "university_name": "University of Oradea",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "France",
+            "university_name": "University of Angers",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU GREEN",
+            "country": "Poland",
+            "university_name": "Wroc\u0142aw University of Environmental and Life Sciences",
+            "link": "https:\/\/eugreenalliance.eu\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Germany",
+            "university_name": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "France",
+            "university_name": "ESTIA Institute of Technology",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Austria",
+            "university_name": "FH Joanneum University of Applied Sciences",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Malta",
+            "university_name": "Malta College of Arts Science and Technology",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Spain",
+            "university_name": "Mondragon University",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Hungary",
+            "university_name": "John von Neumann University",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Poland",
+            "university_name": "Koszalin University of Technology",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Finland",
+            "university_name": "Savonia University of Applied Sciences",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU4DUAL",
+            "country": "Croatia",
+            "university_name": "PAR University of Applied Sciences",
+            "link": "https:\/\/eu4dual.education\/"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Cyprus",
+            "university_name": "Frederick University",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Spain",
+            "university_name": "Catholic University of Valencia",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Greece",
+            "university_name": "Agricultural University of Athens",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Lithuania",
+            "university_name": "Klaipeda University",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "France",
+            "university_name": "La Rochelle Universit\u00e9",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Croatia",
+            "university_name": "University of Zadar",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Germany",
+            "university_name": "University of Rostock",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Romania",
+            "university_name": "Technical University of Civil Engineering Bucharest",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EU-CONEXUS",
+            "country": "Ireland",
+            "university_name": "South East Technological University",
+            "link": "https:\/\/www.eu-conexus.eu"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Germany",
+            "university_name": "Ludwig Maximilians University of Munich",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Sweden",
+            "university_name": "Lund University",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Hungary",
+            "university_name": "University of Szeged",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Spain",
+            "university_name": "University of Alcal\u00e1",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Portugal",
+            "university_name": "University of Porto",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Germany",
+            "university_name": "Universit\u00e4t Hamburg",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "France",
+            "university_name": "Paris-Saclay University",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Norway",
+            "university_name": "The Arctic University of Norway",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EUGLOH",
+            "country": "Serbia",
+            "university_name": "University of Novi Sad",
+            "link": "https:\/\/www.eugloh.eu\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Germany",
+            "university_name": "Leibniz University Hannover",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Finland",
+            "university_name": "Lappeenranta-Lahti University of\n Technology LUT",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Sweden",
+            "university_name": "J\u00f6nk\u00f6ping University",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Czechia",
+            "university_name": "Brno University of Technology",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Austria",
+            "university_name": "Technical University of Vienna",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Slovakia",
+            "university_name": "Slovak University of Technology Bratislava",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Spain",
+            "university_name": "University Rey Juan Carlos",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Italy",
+            "university_name": "University L\u2019Aquila",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "Greece",
+            "university_name": "National Technical University of Athens",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EULiST",
+            "country": "France",
+            "university_name": "Institut Mines-T\u00e9l\u00e9com",
+            "link": "https:\/\/eulist.university\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Poland",
+            "university_name": "Pozna\u0144 University of Technology",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Germany",
+            "university_name": "Brandenburg University of Technology Cottbus-Senftenberg",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Greece",
+            "university_name": "University of Peloponnese",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Spain",
+            "university_name": "University of Cantabria",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Belgium",
+            "university_name": "University of Mons",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Italy",
+            "university_name": "University of Catania",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "France",
+            "university_name": "Polytechnic University of Hauts-de-France",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Finland",
+            "university_name": "University of Vaasa",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Portugal",
+            "university_name": "Polytechnic Institute of Viseu",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUNICE",
+            "country": "Sweden",
+            "university_name": "Karlstad University",
+            "link": "https:\/\/eunice-university.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Germany",
+            "university_name": "University of Cologne",
+            "link": "https:\/\/www.euniwell.eu"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Italy",
+            "university_name": "University of Florence",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "France",
+            "university_name": "Inalco",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Germany",
+            "university_name": "University of Konstanz",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Sweden",
+            "university_name": "Linnaeus University (Campus Kalmar)",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Sweden",
+            "university_name": "Linnaeus University (Campus V\u00e4xj\u00f6)",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Spain",
+            "university_name": "University of Murcia",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "France",
+            "university_name": "Nantes Universit\u00e9",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Spain",
+            "university_name": "University of Santiago de Compostela (Campus Lugo)",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUniWell",
+            "country": "Spain",
+            "university_name": "University of Santiago de Compostela (Campus Santiago de Compostela)",
+            "link": "https:\/\/www.euniwell.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Germany",
+            "university_name": "University of Marburg",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Germany",
+            "university_name": "University of Giessen",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "France",
+            "university_name": "University of Limoges",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Italy",
+            "university_name": "University of Calabria",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Spain",
+            "university_name": "Comillas Pontifical University",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Czechia",
+            "university_name": "University of West Bohemia",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Bosnia and Herzegovina",
+            "university_name": "University of Mostar",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Turkey",
+            "university_name": "Cukurova University",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EUPeace",
+            "country": "Bosnia and Herzegovina",
+            "university_name": "University of Sarajevo",
+            "link": "https:\/\/www.eupeace.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Austria",
+            "university_name": "Montanuniversit\u00e4t Leoben",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Germany",
+            "university_name": "Mittweida University of Applied Sciences",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Romania",
+            "university_name": "University of Petro\u0219ani",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Spain",
+            "university_name": "Universidad de Le\u00f3n",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Greece",
+            "university_name": "Technical University of Crete",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "France",
+            "university_name": "Universit\u00e9 de Lorraine",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Belgium",
+            "university_name": "Hasselt University",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Poland",
+            "university_name": "Silesian University of Technology",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EURECA-PRO",
+            "country": "Germany",
+            "university_name": "Technische Universit\u00e4t Bergakademie Freiberg",
+            "link": "https:\/\/www.eurecapro.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "Germany",
+            "university_name": "Technical University of Munich",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "Denmark",
+            "university_name": "Technical University of Denmark",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "Netherlands (the)",
+            "university_name": "Eindhoven University of Technology",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "France",
+            "university_name": "\u00c9cole Polytechnique",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "Czechia",
+            "university_name": "Czech Technical University in Prague",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "Estonia",
+            "university_name": "Tallinn University of Technology",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "France",
+            "university_name": "HEC Paris",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EuroTeQ",
+            "country": "Spain",
+            "university_name": "IESE Business School\n University of Navarra",
+            "link": "https:\/\/euroteq.eurotech-universities.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "France",
+            "university_name": "University of Technology of Troyes",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Germany",
+            "university_name": "Darmstadt University of Applied Sciences",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Latvia",
+            "university_name": "Riga Technical University",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Ireland",
+            "university_name": "Technological University Dublin",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Bulgaria",
+            "university_name": "Technical University of Sofia",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Cyprus",
+            "university_name": "Cyprus University of Technology",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Spain",
+            "university_name": "Technical University of Cartagena",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUt+",
+            "country": "Romania",
+            "university_name": "Technical University of Cluj-Napoca",
+            "link": "http:\/\/www.univ-tech.eu\/"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "France",
+            "university_name": "CY Cergy Paris University",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Sweden",
+            "university_name": "University of Gothenburg",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Germany",
+            "university_name": "Dresden University of Technology",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Portugal",
+            "university_name": "NOVA University Lisbon",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Spain",
+            "university_name": "Pompeu Fabra University-Barcelona",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Italy",
+            "university_name": "Ca'Foscari University of Venice",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Romania",
+            "university_name": "Babes Bolyai University",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Slovenia",
+            "university_name": "University of Ljubljana",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "EUTOPIA",
+            "country": "Belgium",
+            "university_name": "Vrije Universiteit Brussel",
+            "link": "https:\/\/eutopia-university.eu"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Portugal",
+            "university_name": "Lus\u00f3fona University",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Belgium",
+            "university_name": "Luca School of Arts",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Ireland",
+            "university_name": "IADT",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Estonia",
+            "university_name": "Tallinn University",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Denmark",
+            "university_name": "Via University College",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Lithuania",
+            "university_name": "Lithuanian Academy of Music and Theatre",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Bulgaria",
+            "university_name": "National Academy of Theatre and Film Arts",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FILMEU",
+            "country": "Slovakia",
+            "university_name": "Academy of Performing Arts in Bratislava",
+            "link": "https:\/\/www.filmeu.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Germany",
+            "university_name": "Johannes Gutenberg University Mainz",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Finland",
+            "university_name": "University of Jyv\u00e4skyl\u00e4",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Latvia",
+            "university_name": "University of Latvia",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Italy",
+            "university_name": "University of Palermo",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Spain",
+            "university_name": "University of Valencia",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Romania",
+            "university_name": "Lucian Blaga University of Sibiu",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "France",
+            "university_name": "University of Burgundy",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Norway",
+            "university_name": "University of Agder",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "FORTHEM",
+            "country": "Poland",
+            "university_name": "University of Opole",
+            "link": "https:\/\/www.forthem-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Netherlands (the)",
+            "university_name": "University of Arts The Hague",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "France",
+            "university_name": "Paris Conservatoire",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Spain",
+            "university_name": "Escola Superior de M\u00fasica de Catalunya",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Austria",
+            "university_name": "University of Music and Performing Arts Vienna",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Norway",
+            "university_name": "Norwegian Academy of Music",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Romania",
+            "university_name": "National University of Music Bucharest",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Finland",
+            "university_name": "University of Arts Helsinki",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "IN.TUNE",
+            "country": "Serbia",
+            "university_name": "University of Arts Belgrade",
+            "link": "https:\/\/intune-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Germany",
+            "university_name": "Karlsruhe University of Applied Sciences",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Sweden",
+            "university_name": "University of Sk\u00f6vde",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Finland",
+            "university_name": "South-Eastern Finland University of Applied Sciences",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Bulgaria",
+            "university_name": "Medical University - Sofia",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Ireland",
+            "university_name": "Munster Technological University",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Greece",
+            "university_name": "University of Crete",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Spain",
+            "university_name": "University of Oviedo",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Italy",
+            "university_name": "\u2018Gabriele d\u2019Annunzio\u2019 University",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "Romania",
+            "university_name": "\u2018Gheorghe Asachi\u2019 Technical University",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INGENIUM",
+            "country": "France",
+            "university_name": "University of Rouen Normandy",
+            "link": "https:\/\/ingenium-university.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "Slovakia",
+            "university_name": "Slovak University of Agriculture in Nitra",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "Bulgaria",
+            "university_name": "University of Agribusiness and Rural Development",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "Greece",
+            "university_name": "University of Thessaly",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "Finland",
+            "university_name": "Karelia University of Applied Sciences",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "Spain",
+            "university_name": "University of C\u00f3rdoba",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "France",
+            "university_name": "University of Reims Champagne-Ardenne",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "INVEST",
+            "country": "Italy",
+            "university_name": "University of Milano-Bicocca",
+            "link": "https:\/\/www.invest-alliance.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Spain",
+            "university_name": "University of Ja\u00e9n",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Germany",
+            "university_name": "Bielefeld University",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Czechia",
+            "university_name": "University of Ostrava",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Romania",
+            "university_name": "\u201c\u015etefan Cel Mare\u201d University of Suceava",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Lithuania",
+            "university_name": "\u0160iauliai State University of Applied Sciences",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Italy",
+            "university_name": "University of Salerno",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Sweden",
+            "university_name": "\u00d6rebro University",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "France",
+            "university_name": "University of Tours",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NEOLAiA",
+            "country": "Cyprus",
+            "university_name": "University of Nicosia",
+            "link": "https:\/\/neolaiacampus.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Netherlands (the)",
+            "university_name": "Radboud University",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Spain",
+            "university_name": "Miguel Hern\u00e1ndez University of Elche",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Sweden",
+            "university_name": "Karolinska Institute",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Germany",
+            "university_name": "University of Bonn",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Turkey",
+            "university_name": "Bo\u011fazi\u00e7i University",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Romania",
+            "university_name": "Iuliu Ha\u021bieganu University of Medicine and Pharmacy Cluj-Napoca",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "France",
+            "university_name": "University of Lille",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "NeurotechEU",
+            "country": "Iceland",
+            "university_name": "Reykjavik University",
+            "link": "https:\/\/theneurotech.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Ireland",
+            "university_name": "Technological University of the Shannon (Midwest)",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Ireland",
+            "university_name": "Technological University of the Shannon (Midlands)",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Portugal",
+            "university_name": "Polytechnic of Leiria",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Finland",
+            "university_name": "H\u00e4me University of Applied Sciences",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Netherlands (the)",
+            "university_name": "NHL Stenden University of Applied Sciences",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Austria",
+            "university_name": "Vorarlberg University of Applied Sciences",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Portugal",
+            "university_name": "Polytechnic of C\u00e1vado and Ave",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Spain",
+            "university_name": "University of Burgos",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "RUN-EU",
+            "country": "Belgium",
+            "university_name": "Howest University of Applied Sciences",
+            "link": "https:\/\/run-eu.eu\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Germany",
+            "university_name": "Christian-Albrechts University of Kiel",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Norway",
+            "university_name": "Nord University",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Croatia",
+            "university_name": "University of Split",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Spain",
+            "university_name": "University of C\u00e1diz",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Portugal",
+            "university_name": "University of Algarve",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Italy",
+            "university_name": "University of Naples Parthenope",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Malta",
+            "university_name": "University of Malta",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "France",
+            "university_name": "University of Western Brittany",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "SEA-EU",
+            "country": "Poland",
+            "university_name": "University of Gda\u0144sk",
+            "link": "https:\/\/sea-eu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Netherlands (the)",
+            "university_name": "Hanze University of Applied Sciences Groningen",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Portugal",
+            "university_name": "Polytechnic Institute of Bragan\u00e7a",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Germany",
+            "university_name": "Hochschule Bremen City University of Applied Sciences",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Spain",
+            "university_name": "Universidad de La Laguna",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Czechia",
+            "university_name": "Silesian University in Opava",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Sweden",
+            "university_name": "University West",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Poland",
+            "university_name": "Cracow University of Technology",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "France",
+            "university_name": "University of Franche-Comt\u00e9",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "STARS EU",
+            "country": "Albania",
+            "university_name": "Aleksandr Moisiu University",
+            "link": "https:\/\/starseu.org\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Germany",
+            "university_name": "Saarland University",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Spain",
+            "university_name": "University of Alicante",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Estonia",
+            "university_name": "Estonian Academy of Arts",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Portugal",
+            "university_name": "Universidade Cat\u00f3lica Portuguesa",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Slovenia",
+            "university_name": "University of Primorska",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "France",
+            "university_name": "Jean Monnet University",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Poland",
+            "university_name": "University of Silesia in Katowice",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Bulgaria",
+            "university_name": "Sofia University \u201cSt. Kliment Ohridski\u201d",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Italy",
+            "university_name": "The University of Trieste",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "T4EU",
+            "country": "Lithuania",
+            "university_name": "Vytautas Magnus University in Kaunas",
+            "link": "https:\/\/transform4europe.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Spain",
+            "university_name": "University of Seville",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "France",
+            "university_name": "Cote d'Azur University",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Italy",
+            "university_name": "University of Genoa",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Slovakia",
+            "university_name": "Technical University of Ko\u0161ice",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Austria",
+            "university_name": "MCI - The Entrepreneurial School",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Finland",
+            "university_name": "Haaga-Helia University of Applied Sciences",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Germany",
+            "university_name": "University of M\u00fcnster",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "ULYSSEUS",
+            "country": "Montenegro",
+            "university_name": "University of Montenegro",
+            "link": "https:\/\/ulysseus.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Italy",
+            "university_name": "University of Bologna",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Germany",
+            "university_name": "Free University of Berlin",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Finland",
+            "university_name": "University of Helsinki",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Belgium",
+            "university_name": "Catholic University of Leuven",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Spain",
+            "university_name": "Complutense University of Madrid",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Netherlands (the)",
+            "university_name": "Leiden University",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "France",
+            "university_name": "Paris 1 Panth\u00e9on-Sorbonne University",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Poland",
+            "university_name": "Jagiellonian University",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "Una Europa",
+            "country": "Ireland",
+            "university_name": "University College Dublin",
+            "link": "https:\/\/www.una-europa.eu\/"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Netherlands (the)",
+            "university_name": "Erasmus University Rotterdam",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Germany",
+            "university_name": "Ruhr University Bochum",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Spain",
+            "university_name": "University of Deusto",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Ireland",
+            "university_name": "University College Cork",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Turkey",
+            "university_name": "Ko\u00e7 University",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Belgium",
+            "university_name": "University of Li\u00e8ge",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Finland",
+            "university_name": "University of Oulu",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Croatia",
+            "university_name": "University of Zagreb",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Poland",
+            "university_name": "University of Lodz",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIC",
+            "country": "Sweden",
+            "university_name": "Malm\u00f6 University",
+            "link": "https:\/\/www.unic.eu"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Bulgaria",
+            "university_name": "Agricultural University Plovdiv",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Belgium",
+            "university_name": "The Higher Education Institution of the province of Li\u00e8ge",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Portugal",
+            "university_name": "Polytechnic Institute of Coimbra",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "France",
+            "university_name": "SupBiotech",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Iceland",
+            "university_name": "Agricultural University of Iceland",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Poland",
+            "university_name": "Warsaw University of Life Sciences",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Spain",
+            "university_name": "University of Almeria",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNIgreen",
+            "country": "Italy",
+            "university_name": "University of Modena and Reggio Emilia",
+            "link": "https:\/\/unigreen-alliance.eu\/index.html"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Italy",
+            "university_name": "University of Turin",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Portugal",
+            "university_name": "University of Beira Interior",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Romania",
+            "university_name": "Transilvania University of Brasov",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Italy",
+            "university_name": "University of Brescia",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Portugal",
+            "university_name": "Polytechnic of Guarda",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Spain",
+            "university_name": "Public University of Navarre",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "France",
+            "university_name": "University of Pau and Pays de l'Adour",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "France",
+            "university_name": "University of Savoy Mont Blanc",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Romania",
+            "university_name": "West University of Timi\u0219oara",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "UNITA",
+            "country": "Spain",
+            "university_name": "University of Zaragoza",
+            "link": "https:\/\/univ-unita.eu\/Sites\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Finland",
+            "university_name": "Aalto University",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "France",
+            "university_name": "Grenoble INP Graduate Schools of Engineering and Management, University Grenoble Alpes",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Sweden",
+            "university_name": "KTH Royal Institute of Technology",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Poland",
+            "university_name": "Wroc\u0142aw University of Science and Technology",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Italy",
+            "university_name": "Politecnico Di Torino",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Austria",
+            "university_name": "Graz University of Technology",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Germany",
+            "university_name": "Technical University of Darmstadt",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Portugal",
+            "university_name": "Universidade de Lisboa",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "Unite!",
+            "country": "Spain",
+            "university_name": "Universitat Polit\u00e8cnica de Catalunya \u00b7 BarcelonaTech",
+            "link": "https:\/\/www.unite-university.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "France",
+            "university_name": "University of Toulouse",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "Germany",
+            "university_name": "Heinrich Heine University D\u00fcsseldorf",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "Poland",
+            "university_name": "AGH University of Science and Technologie",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "Luxembourg",
+            "university_name": "University of Luxembourg",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "Sweden",
+            "university_name": "Lulea University of Technology",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "Italy",
+            "university_name": "Tor Vergata University of Rome",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UNIVERSEH",
+            "country": "Belgium",
+            "university_name": "University of Namur",
+            "link": "https:\/\/universeh.eu\/"
+        },
+        {
+            "alliance_name": "UREKA SHIFT",
+            "country": "Finland",
+            "university_name": "Metropolia University of Applied Sciences",
+            "link": "https:\/\/www.ureka.eu\/"
+        },
+        {
+            "alliance_name": "UREKA SHIFT",
+            "country": "Germany",
+            "university_name": "Frankfurt University of Applied Sciences",
+            "link": "https:\/\/www.ureka.eu\/"
+        },
+        {
+            "alliance_name": "UREKA SHIFT",
+            "country": "Belgium",
+            "university_name": "HOGENT University of Applied Sciences and Arts",
+            "link": "https:\/\/www.ureka.eu\/"
+        },
+        {
+            "alliance_name": "UREKA SHIFT",
+            "country": "Portugal",
+            "university_name": "Lisbon Polytechnic",
+            "link": "https:\/\/www.ureka.eu\/"
+        },
+        {
+            "alliance_name": "UREKA SHIFT",
+            "country": "Netherlands (the)",
+            "university_name": "Amsterdam University of Applied Sciences",
+            "link": "https:\/\/www.ureka.eu\/"
+        },
+        {
+            "alliance_name": "UREKA SHIFT",
+            "country": "Czechia",
+            "university_name": "VSB Technical University of Ostrava",
+            "link": "https:\/\/www.ureka.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Finland",
+            "university_name": "University of Eastern Finland",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Croatia",
+            "university_name": "University of Rijeka",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Spain",
+            "university_name": "Charles III University of Madrid",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Germany",
+            "university_name": "University of Bremen",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Belgium",
+            "university_name": "University of Antwerp",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Netherlands (the)",
+            "university_name": "Maastricht University",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Cyprus",
+            "university_name": "University of Cyprus",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "Poland",
+            "university_name": "Nicolaus Copernicus University",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "YUFE",
+            "country": "France",
+            "university_name": "Sorbonne Nouvelle University",
+            "link": "https:\/\/yufe.eu\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Portugal",
+            "university_name": "Santar\u00e9m Polytechnic University",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Lithuania",
+            "university_name": "Kaunas University of Applied Engineering",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Latvia",
+            "university_name": "Latvian Academy of Culture",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Romania",
+            "university_name": "\"Constantin Br\u00e2ncu\u015fi\" University in T\u00e2rgu-Jiu",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Republic of North Macedonia",
+            "university_name": "Golce Delcev University",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Poland",
+            "university_name": "Medical University of Gda\u0144sk",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Austria",
+            "university_name": "K\u00e4rnten University of Applied Sciences",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Spain",
+            "university_name": "UFV-Madrid",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "ACE2EU",
+            "country": "Germany",
+            "university_name": "THI University of Applied Sciences",
+            "link": "https:\/\/ace-eu.ipsantarem.pt\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Germany",
+            "university_name": "University of Technology Chemnitz",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Bosnia and Herzegovina",
+            "university_name": "University of Banja Luka",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Poland",
+            "university_name": "Bialystock University of Technology",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Romania",
+            "university_name": "University of Craiova",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Spain",
+            "university_name": "University of Girona",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Slovenia",
+            "university_name": "University of Nova Gorica",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "France",
+            "university_name": "University of Perpignan Via Domitia",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Bulgaria",
+            "university_name": "\"Angel Kanchev\" University of Ruse",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "Across",
+            "country": "Italy",
+            "university_name": "University of Udine",
+            "link": "https:\/\/www.across-alliance.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "France",
+            "university_name": "University of Clermont Auvergne",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Belgium",
+            "university_name": "VIVES University of Applied Sciences",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Estonia",
+            "university_name": "TTK University of Applied Sciences",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Germany",
+            "university_name": "OTH Regensburg",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Greece",
+            "university_name": "University of Ioannina",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Italy",
+            "university_name": "University of Perugia",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Norway",
+            "university_name": "Western Norway University of Applied Sciences",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "ARTEMIS",
+            "country": "Romania",
+            "university_name": "Ovidius University of Constan\u021ba",
+            "link": "https:\/\/eu-artemis.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Germany",
+            "university_name": "Bauhaus University Weimar",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Sweden",
+            "university_name": "Blekinge Institute of Technology",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Italy",
+            "university_name": "University of Bergamo",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Bulgaria",
+            "university_name": "University of Architecture, Civil Engineering and Geodesy",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Poland",
+            "university_name": "University of Economics in Katowice",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Portugal",
+            "university_name": "Castelo Branco Polytechnic University",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "France",
+            "university_name": "Universit\u00e9 de Picardie Jules Verne",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "France",
+            "university_name": "Universit\u00e9 Lumi\u00e8re Lyon 2",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Albania",
+            "university_name": "Polis University",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "BAUHAUS4EU",
+            "country": "Greece",
+            "university_name": "University of Macedonia",
+            "link": "https:\/\/www.bauhaus4.eu\/"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Germany",
+            "university_name": "Offenburg University of Applied Sciences",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Republic of North Macedonia",
+            "university_name": "Southeast European University",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "France",
+            "university_name": "ECAM LaSalle",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Sweden",
+            "university_name": "Mid Sweden University",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Portugal",
+            "university_name": "Universidade Europeia Lisboa",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Poland",
+            "university_name": "University of Warmia and Mazury",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Latvia",
+            "university_name": "Latvia University of Life Sciences and Technologies",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "CHALLENGE.EU",
+            "country": "Spain",
+            "university_name": "Universidad Europea de Valencia",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Greece",
+            "university_name": "Democritus University of Thrace",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Spain",
+            "university_name": "University of A Coru\u00f1a",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Germany",
+            "university_name": "Europa-Universit\u00e4t Flensburg",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Norway",
+            "university_name": "Inland Norway University of Applied Sciences",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "France",
+            "university_name": "Universit\u00e9 Rennes 2",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "France",
+            "university_name": "Universit\u00e9 Bretagne Sud",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Cyprus",
+            "university_name": "Neapolis University Pafos",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Slovakia",
+            "university_name": "Matej Bel University",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EMERGE",
+            "country": "Ireland",
+            "university_name": "University of Limerick",
+            "link": "https:\/\/euemerge.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Finland",
+            "university_name": "\u00c5land University of Applied Sciences",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "France",
+            "university_name": "University of the Antilles",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Portugal",
+            "university_name": "University of the Azores",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Spain",
+            "university_name": "University of the Balearic Islands",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Bulgaria",
+            "university_name": "Burgas Free University",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Croatia",
+            "university_name": "University of Dubrovnik ",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Slovenia",
+            "university_name": "Euro-Mediterranean University",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Greece",
+            "university_name": "University of Patras",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Italy",
+            "university_name": "University of Sassari",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Germany",
+            "university_name": "Stralsund University of Applied Sciences",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "Poland",
+            "university_name": "West Pomeranian University of \nTechnology in Szczecin",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUNICoast",
+            "country": "France",
+            "university_name": "University Le Havre Normandie",
+            "link": "https:\/\/eunicoast.eu\/"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "France",
+            "university_name": "ESSCA Angers School of Management",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Croatia",
+            "university_name": "Zagreb School of Economics and Management",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Germany",
+            "university_name": "HTW Berlin - University of Applied Sciences",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Poland",
+            "university_name": "Polish Japanese Academy of Information Technology",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Spain",
+            "university_name": "Abat Oliba CEU University ",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Lithuania",
+            "university_name": "ISM University of Management and Economics",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Luxembourg",
+            "university_name": "Luxembourg School of Business ",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Greece",
+            "university_name": "University of Piraeus ",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Germany",
+            "university_name": "Heilbronn University of Applied Sciences",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "EUonAIR",
+            "country": "Poland",
+            "university_name": "Kozminski University",
+            "link": "alliance website under construction"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Sweden",
+            "university_name": "Halmstad University",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Portugal",
+            "university_name": "Polytechnic Institute of Beja",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Czechia",
+            "university_name": "Mendel University in Brno (MENDELU)",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Denmark",
+            "university_name": "University College of Northern Denmark",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Finland",
+            "university_name": "SeAMK Sein\u00e4joki University of Applied Sciences",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Netherlands (the)",
+            "university_name": "Fontys University of Applied Sciences",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Germany",
+            "university_name": "Deggendorf Institute of Technology",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Lithuania",
+            "university_name": "Vilnius University of Applied Sciences",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "HEROES",
+            "country": "Belgium",
+            "university_name": "Thomas More University of Applied Sciences",
+            "link": "https:\/\/www.heroesuniversity.eu\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Bulgaria",
+            "university_name": "D. A. Tsenov Academy of Economics",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Czechia",
+            "university_name": " University of South Bohemia in \u010cesk\u00e9 Bud\u011bjovice",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Italy",
+            "university_name": "University of \nCamerino",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Germany",
+            "university_name": "University of Greifswald",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Netherlands (the)",
+            "university_name": " Breda University of Applied Sciences",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Poland",
+            "university_name": "Opole University of Technology",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Romania",
+            "university_name": "Valahia University of T\u00e2rgovi\u0219te",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Slovakia",
+            "university_name": "Trnava University",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Sweden",
+            "university_name": "S\u00f6dert\u00f6rn University",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Turkey",
+            "university_name": "Adana Alparslan T\u00fcrke\u015f Science and Technology University",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "KreativEU",
+            "country": "Portugal",
+            "university_name": "Polytechnic University of Tomar",
+            "link": "https:\/\/kreativeu.org\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Portugal",
+            "university_name": "Universidade Aberta",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Iceland",
+            "university_name": "Bifr\u00f6st University",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Cyprus",
+            "university_name": "Open University of Cyprus",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Latvia",
+            "university_name": "Daugavpils University",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Germany",
+            "university_name": "FernUniversit\u00e4t in Hagen",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Greece",
+            "university_name": "Hellenic Open University",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Netherlands (the)",
+            "university_name": "Open University of the Netherlands",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Spain",
+            "university_name": "National University of Distance Education - UNED",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Bulgaria",
+            "university_name": "St. Cyril and St. Methodius University of Veliko Tarnovo",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "OpenEU",
+            "country": "Spain",
+            "university_name": "Foundation for the Open University of Catalonia",
+            "link": "https:\/\/openeu.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Netherlands (the)",
+            "university_name": "Avans University of Applied Sciences",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Portugal",
+            "university_name": "Iscte - University Institute of Lisbon",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Finland",
+            "university_name": "Laurea University of Applied Sciences",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Germany",
+            "university_name": "TH K\u00f6ln - University of Applied Sciences",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Spain",
+            "university_name": "University of Huelva",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Italy",
+            "university_name": "Universit\u00e0 Iuav di Venezia",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Czechia",
+            "university_name": "Tomas Bata University",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "Slovakia",
+            "university_name": "University of \u017dilina",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "PIONEER",
+            "country": "France",
+            "university_name": "Gustave Eiffel University",
+            "link": "https:\/\/pioneer-alliance.eu\/"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Italy",
+            "university_name": "Free University of Bozen-Bolzano",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Poland",
+            "university_name": "University of Information Technology and Management in Rzeszow",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "France",
+            "university_name": "University of Technology of Compi\u00e8gne",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Cyprus",
+            "university_name": "European University Cyprus",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Sweden",
+            "university_name": "M\u00e4lardalen University",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Italy",
+            "university_name": "Universit\u00e0 Politecnica delle Marche",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Portugal",
+            "university_name": "Polytechnic University of Viana do Castelo",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Bosnia and Herzegovina",
+            "university_name": "Dzemal Bijedic University of Mostar",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "SUNRISE",
+            "country": "Germany",
+            "university_name": "Technische Universit\u00e4t Ilmenau",
+            "link": "https:\/\/sites.google.com\/view\/sunrise-alliance\/home"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "Germany",
+            "university_name": "Technical University of Applied Sciences W\u00fcrzburg-Schweinfurt",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "Italy",
+            "university_name": "University of Campania \"Luigi Vanvitelli\"",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "Finland",
+            "university_name": "Tampere University of Applied Sciences (TAMK)",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "Lithuania",
+            "university_name": "Kauno Kolegija",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "Spain",
+            "university_name": "University of Malaga",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "France",
+            "university_name": "Sorbonne Paris Nord University",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        },
+        {
+            "alliance_name": "UNINOVIS",
+            "country": "Albania",
+            "university_name": "University of Tirana",
+            "link": "https:\/\/uninovis.eu\/academic-alliance\/"
+        }
+    ]
+}
