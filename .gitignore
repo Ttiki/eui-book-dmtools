@@ -1,1 +1,4 @@
 .ENV
+/.idea/vcs.xml
+*.pdf
+*.txt
